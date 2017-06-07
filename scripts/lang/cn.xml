@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<note>
+	<search>搜索</search>
+	<searchband>搜索范围</searchband>
+	<all>全部</all>
+	<filename>文件名称</filename>
+	<installed>已安装</installed>
+	<uninstalled>未安装</uninstalled>
+	<filetype>文件类别</filetype>
+	<programtype>程序类别</programtype>
+	<filecontent>文件内容</filecontent>
+	<searchlevel>搜索级别</searchlevel>
+	<primary>初级</primary>
+	<medium>中级</medium>
+	<senior>高级</senior>
+	<searchdocument>搜索结果</searchdocument>
+	<searchprogram>搜索结果</searchprogram>
+	<recommenddocument>推荐</recommenddocument>
+	<recommendprogram>推荐</recommendprogram>
+	<programname>程序名称</programname>
+	<programdescribe>程序描述</programdescribe>
+	<programtype>程序类别</programtype>
+	<ordernum>序号</ordernum>
+	<lastatime>最后访问时间</lastatime>
+	<hit>命中</hit>
+	<item>条</item>
+	<timeconsum>耗时</timeconsum>
+	<prev>上一页</prev>
+	<next>下一页</next>
+	<language>语言</language>
+	<searchnum>搜索结果列表每页数目</searchnum>
+	<recomnum>推荐列表每页数目</recomnum>
+	<usersure>确定</usersure>
+	<usercancel>取消</usercancel>
+	<tag>添加标签</tag>
+</note>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<note>
+	<search>Go</search>
+	<searchband>Searchband</searchband>
+	<all>All</all>
+	<filename>Filename</filename>
+	<installed>Installed</installed>
+	<uninstalled>Uninstalled</uninstalled>
+	<filetype>Filetype</filetype>
+	<programtype>Programtype</programtype>
+	<filecontent>Filecontent</filecontent>
+	<searchlevel>Searchlevel</searchlevel>
+	<primary>Primary</primary>
+	<medium>Medium</medium>
+	<senior>Senior</senior>
+	<searchdocument>Searchdocument</searchdocument>
+	<searchprogram>Searchprogram</searchprogram>
+	<recommenddocument>Recommenddocument</recommenddocument>
+	<recommendprogram>Recommendprogram</recommendprogram>
+	<programname>Programname</programname>
+	<programdescribe>Programdescribe</programdescribe>
+	<programtype>Programtype</programtype>
+	<ordernum>Ordernum</ordernum>
+	<lastatime>Lastatime</lastatime>
+	<hit>Hit</hit>
+	<item>Item</item>
+	<timeconsum>Timeconsum</timeconsum>
+	<prev>Prev</prev>
+	<next>Next</next>
+	<language>Language</language>
+	<searchnum>Searchnum</searchnum>
+	<recomnum>Recomnum</recomnum>
+	<usersure>OK</usersure>
+	<usercancel>Cancel</usercancel>
+	<tag>Add Tag</tag>
+</note>

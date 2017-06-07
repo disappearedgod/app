@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<note>
+	<search>खोज</search>
+	<searchband>खोजक्षेत्र</searchband>
+	<all>पूरे</all>
+	<filename>फ़ाइल का नाम</filename>
+	<installed>पहले हीस्थापना</installed>
+	<uninstalled>नहींस्थापना</uninstalled>
+	<filetype>फ़ाइलश्रेणी</filetype>
+	<programtype>कार्यक्रमश्रेणी</programtype>
+	<filecontent>फाइल सामग्री</filecontent>
+	<searchlevel>खोजस्तर</searchlevel>
+	<primary>मुख्य</primary>
+	<medium>इंटर</medium>
+	<senior>उन्नत</senior>
+	<searchdocument>खोजफ़ाइल</searchdocument>
+	<searchprogram>खोजकार्यक्रम</searchprogram>
+	<recommenddocument>अनुशंसाफ़ाइल</recommenddocument>
+	<recommendprogram>अनुशंसाकार्यक्रम</recommendprogram>
+	<programname>कार्यक्रमनाम</programname>
+	<programdescribe>कार्यक्रमविवरण</programdescribe>
+	<programtype>कार्यक्रमश्रेणी</programtype>
+	<ordernum>नहीं।</ordernum>
+	<lastatime>पिछला पहुँच समय</lastatime>
+	<hit>मारो</hit>
+	<item>महीने</item>
+	<timeconsum>प्रसंस्कृत</timeconsum>
+	<prev>पूर्व</prev>
+	<next>अगला</next>
+	<language>भाषा</language>
+	<searchnum>खोजपृष्ठ संख्या</searchnum>
+	<recomnum>अनुशंसा पृष्ठ संख्या</recomnum>
+	<usersure>निर्धारित बनाने के लिए</usersure>
+	<usercancel>रद्द करना</usercancel>
+</note>
